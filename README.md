@@ -1,4 +1,4 @@
-[![MasterHead](https://slnadyc.000webhostapp.com/assets/share//banner.gif)](https://rishavchanda.io)
+[![MasterHead](https://slnadyc.000webhostapp.com/assets/share//banner.gif)](https://github.com/Thamidu-Nadun)
 
 <h1 align="center">< Hi <img src="https://slnadyc.000webhostapp.com/assets/share//clap.gif" width="50px"> , I'm <b>Thamidu-Nadun /></b></h1>
 
