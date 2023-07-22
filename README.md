@@ -25,10 +25,9 @@
 <!--a href="https://www.youtube.com/@slnadyc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl nad yc" height="35" width="40" /></a-->
 <a href="https://www.linkedin.com/in/thamidu-nadun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamid nadun" height="30" width="40" /></a>
 </p>
-
+<span id="sts"></span>
 **<h3 align="center"><📊My Current GitHub Stats  /></p>**
 
-<span id="sts"></span>
 ![](https://github-readme-stats.vercel.app/api?username=Thamidu-Nadun&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thamidu-Nadun&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamidu-Nadun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
