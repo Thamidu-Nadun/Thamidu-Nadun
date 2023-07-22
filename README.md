@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<img src="https://slnadyc.000webhostapp.com/assets/share//developer.gif" width="70%">
+<img src="https://slnadyc.000webhostapp.com/assets/share//developer.gif" width="50%">
 </div>
 <br><br>
 
