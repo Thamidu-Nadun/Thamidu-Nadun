@@ -1,6 +1,6 @@
 [![MasterHead](https://slnadyc.000webhostapp.com/assets/share//banner.gif)](https://github.com/Thamidu-Nadun)
 
-<h1 align="center">< Hi <img src="https://slnadyc.000webhostapp.com/assets/share/clap.gif" width="50px"> , I'm <b>Thamidu-Nadun /></b></h1>
+<h1 align="center">< Hi <img src="clap.gif" width="50px"> , I'm <b>Thamidu-Nadun /></b></h1>
 
 <h3 align="center" id="home"><font color="#8C42F9" title="I am a webDesigner since 4 years">Web Designer</font><font color="#3772FF"> and</font><font color="#4ECDC4"title="I am a webDeveloper since 1 years"> Web Developer </font>|<font color="$FF6B6B"title="I am a ethicalHacker, I am also like to complete CTF."> Ethical Hacker </font>|<font color="#DE3C4B" title="I am a content creator since 5 years, I like to share my knowledge with people who intrest."> YouTube Content Creator</font></h3>
 
@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<img src="https://slnadyc.000webhostapp.com/assets/share/developer.gif" width="50%">
+<img src="developer.png" width="100%" height="100%">
 </div>
 <br><br>
 
