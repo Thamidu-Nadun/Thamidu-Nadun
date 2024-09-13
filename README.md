@@ -33,7 +33,7 @@
 
 <h2 style="text-align: center; color: #d83a7c" align="center"><font color="#d83a7c">My Current GitHub Stats</font></h2>
 
-<a href="" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=thamidu-nadun&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" align="center" /></a>
+<p href="" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=thamidu-nadun&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" align="center" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamidu-nadun&show_icons=true&locale=en" alt="thamidu-nadun" /></p>
 
