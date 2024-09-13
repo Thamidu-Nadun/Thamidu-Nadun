@@ -33,9 +33,13 @@
 
 <h2 style="text-align: center; color: #d83a7c" align="center"><font color="#d83a7c">My Current GitHub Stats</font></h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Thamidu-Nadun&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thamidu-Nadun&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamidu-Nadun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="" align=center><img src="https://github-readme-streak-stats.herokuapp.com?user=thamidu-nadun&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamidu-nadun&show_icons=true&locale=en" alt="thamidu-nadun" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamidu-nadun&show_icons=true&locale=en&layout=compact" alt="thamidu-nadun" /></p>
+
+---
 
 <!-- Languages -->
 <h2 style="text-align: center; color: #d83a7c" align="center"><font color="#d83a7c">Languages and Tools I Know</font></h2>
