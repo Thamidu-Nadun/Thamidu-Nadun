@@ -3,7 +3,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.gif" alt="😃" width="32" height="32">
 </picture>
-! I'm <mark style="background: #d83a7c; color: #fff;border-radius: 1rem; padding: .1em .5em; font-family: monospace;">Thamidu Nadun</mark> </h1>
+! I'm <font color="#d83a7c" face="monospace" >Thamidu Nadun</font> </h1>
 
 <!-- Stack -->
 <h3 align="center" id="home"><font color="#8C42F9" title="I am a webDesigner since 4 years">Web Designer</font><font color="#3772FF"> and</font><font color="#4ECDC4"FF="I am a webDeveloper since 1 years"> Web Developer </font>|<font color="$FF6B6B"title="I am a ethicalHacker, I am also like to complete CTF."> Ethical Hacker </font>|<font color="#DE3C4B" title="I am a content creator since 5 years, I like to share my knowledge with people who intrest."> YouTube Content Creator</font></h3>
@@ -12,7 +12,7 @@
 
 <!-- Description -->
 <div style="font-family: monospace; font-weight: bold; margin-top: 1rem; text-align: center;" align="center">
-I am passionate about creating user-friendly software solutions that make a difference in people's live
+<font face="monospace">I am passionate about creating user-friendly software solutions that make a difference in people's live</font>
 </div>
 
 ---
@@ -31,14 +31,14 @@ I am passionate about creating user-friendly software solutions that make a diff
 
 <!-- GitHub Status -->
 
-<h2 style="text-align: center; color: #d83a7c" align="center">My Current GitHub Stats</h2>
+<h2 style="text-align: center; color: #d83a7c" align="center"><font color="#d83a7c">My Current GitHub Stats</font></h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Thamidu-Nadun&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thamidu-Nadun&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamidu-Nadun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Languages -->
-<h2 style="text-align: center; color: #d83a7c" align="center">Languages and Tools I Know</h2>
+<h2 style="text-align: center; color: #d83a7c" align="center"><font color="#d83a7c">Languages and Tools I Know</font></h2>
 
 <div style="text-align: center;" align="center">
 
