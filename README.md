@@ -6,18 +6,9 @@
 ! I'm <mark style="background: #d83a7c; color: #fff;border-radius: 1rem; padding: .1em .5em; font-family: monospace;">Thamidu Nadun</mark> </h1>
 
 <!-- Stack -->
-<div style="background-image: linear-gradient(to right, #d83a7c, #f6596b, #ff7f5b, #ffa852); padding: 1em; border-radius: 1rem; text-transform: uppercase; font-family: monospace; font-weight: bold; text-align: center;">
-<span style="color: #fff; margin: 0 .5em 0 .5em;">web designer</span>
-<span style="color: #0081d5">|</span>
-<span style="color: #fff; margin: 0 .5em 0 .5em;">web developer</span>
-<span style="color: #0081d5">|</span>
-<span style="color: #fff; margin: 0 .5em 0 .5em;">ethical hacker</span>
+<h3 align="center" id="home"><font color="#8C42F9" title="I am a webDesigner since 4 years">Web Designer</font><font color="#3772FF"> and</font><font color="#4ECDC4"FF="I am a webDeveloper since 1 years"> Web Developer </font>|<font color="$FF6B6B"title="I am a ethicalHacker, I am also like to complete CTF."> Ethical Hacker </font>|<font color="#DE3C4B" title="I am a content creator since 5 years, I like to share my knowledge with people who intrest."> YouTube Content Creator</font></h3>
 
 </div>
-
-<div style="position: fixed; background-color: #000; bottom: 3em; right: 1em; width: 1.5em; height: auto;border-radius: 1rem; color: #fff; text-align: center; border: 2px solid #d83a7c;"><a href="#top" style="text-decoration: none; color: #fff;"><i>↟</i></a></div>
-
-<div style="position: fixed; background-color: #000; bottom: 6em; right: 1em; width: 1.5em; height: auto;border-radius: 1rem; color: #fff; text-align: center; border: 2px solid #d83a7c;"><a href="callto:+94701370247" style="text-decoration: none; color: #fff;">📞</a></div>
 
 <!-- Description -->
 <div style="font-family: monospace; font-weight: bold; margin-top: 1rem; text-align: center;">
@@ -36,87 +27,7 @@ I am passionate about creating user-friendly software solutions that make a diff
 
 </div>
 
-<svg fill="none" viewBox="0 0 800 400" width="500" height="400" xmlns="http://www.w3.org/2000/svg" style=" position: relative; left: 50%; transform: translateX(-50%);">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            .container{
-                --color: #d83a7c;
-                --border-size: 2px;
-                position: absolute;
-                top: -50px;
-                color: white;
-                padding-top: .5em;
-                width: 100%;
-                height: 400px;
-                text-align: center;
-                border-radius: 1rem;
-            }
-            .container h1{
-                display: block;
-                animation: pop-up 2s ease-in-out infinite;
-                color: var(--color);
-                font-family: monospace;
-            }
-            .row{
-                display: flex;
-                margin: 2em 1em;
-                justify-content: space-around;
-            }
-            .item-card{
-                border: 1px solid #fff;
-                display: block;
-                font-size: 1.5em;
-            }
-            .item-card .item {
-                font-family: monospace;
-                font-weight: bold;
-                text-transform: capitalize;
-                color: var(--color);
-                border: var(--border-size) solid var(--color);
-                padding: 0 .5em;
-            }
-            .item-card .item:hover{
-                color: #fff;
-                background: var(--color);
-                box-shadow: 0 0 10px 0 #000;
-            }
-            .item-card .item h4 {
-                color: var(--color);
-                text-decoration: underline;
-            }
-            .item-card .item:hover h4 {
-                color: #fff;
-            }
-            @keyframes pop-up{
-                0%{
-                    scale: .5;
-                }
-                100%{
-                    scale: 1;
-                }
-            }
-            </style>
-            <div class="container">
-			    <h1>Tech Stack</h1>
-                <div class="item-card">
-                <div class="items">
-                 <div class="row">
-                    <div class="item">
-                        <h4>I'm In To</h4>
-                        <p>i am really interested in cyber security besides web designing and development</p>
-                    </div>
-                    <div class="item">
-                        <h4>About Me</h4>
-                        <p>I am self thought web designer and developer therefore i really curious to share my knowledge</p>
-                    </div>
-                 </div>  
-                </div>
-                </div>
-            </div>
-		</div>
-	</foreignObject>
-</svg>
+
 
 <!-- GitHub Status -->
 
