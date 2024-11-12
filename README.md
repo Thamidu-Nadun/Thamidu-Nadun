@@ -67,7 +67,7 @@
 ###### Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-f89501.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-ef7f1f?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 
-###### Design Tools
+###### Designing Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23FF9900.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ###### Server Softwares 
