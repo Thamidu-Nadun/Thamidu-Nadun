@@ -64,7 +64,7 @@
 ###### DataBase System
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-###### Cloud Technology
+###### Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-f89501.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-ef7f1f?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 
 ###### Design Tools
