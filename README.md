@@ -1,4 +1,4 @@
-![Header](assets/header.svg)
+![Header-Image](assets/header.svg)
 <h1 style="text-align: center;" align="center"> Hi
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f603/512.webp" type="image/webp">
@@ -122,4 +122,4 @@ Thamidu-Nadun
   <img alt="github-snake" src="https://raw.githubusercontent.com/Thamidu-Nadun/Thamidu-Nadun/snake-contribution/github-snake.svg" />
 </picture>
 
-![Footer](assets/footer.svg)
+![Footer-Image](assets/footer.svg)
