@@ -41,7 +41,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamidu-nadun&show_icons=true&locale=en&layout=compact" alt="thamidu-nadun" /></p>
 
 ---
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
 
 <!-- Languages -->
