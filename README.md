@@ -7,7 +7,7 @@
 ! I'm <font color="#d83a7c" face="monospace" >Thamidu Nadun</font> </h1>
 
 <!-- Stack -->
-<h3 align="center" id="home"><font color="#8C42F9" title="I am a webDesigner since 4 years">Web Designer</font><font color="#3772FF"> and</font><font color="#4ECDC4"FF="I am a webDeveloper since 1 years"> Web Developer </font>|<font color="$FF6B6B"title="I am a ethicalHacker, I am also like to complete CTF."> Ethical Hacker </font>|<font color="#DE3C4B" title="I am a content creator since 5 years, I like to share my knowledge with people who intrest."> YouTube Content Creator</font></h3>
+<h3 align="center" id="home"><font color="#8C42F9" title="I am a webDesigner since 4 years">Web Designer</font><font color="#3772FF"> and</font><font color="#4ECDC4"FF="I am a webDeveloper since 1 years"> Web Developer </font>|<font color="$FF6B6B"title="I am a ethicalHacker, I am also like to complete CTF."> Ethical Hacker </font>|<font color="#DE3C4B" title="I am a content creator since 5 years, I like to share my knowledge with people who interest."> YouTube Content Creator</font></h3>
 
 </div>
 
