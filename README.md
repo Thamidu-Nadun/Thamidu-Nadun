@@ -86,21 +86,6 @@
 
 ---
 
-<h4 style="text-align: center; color: #d83a7c;" align="center">
-<sub>
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="20" height="20">
-</picture>
-</sub>
-Thamidu-Nadun
-<sup>
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="20" height="20">
-</picture>
-</sup>
-</h4>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31vypmbcqva6y5hlwy2643phzyo4">
@@ -126,5 +111,23 @@ Thamidu-Nadun
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thamidu-Nadun/Thamidu-Nadun/snake-contribution/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Thamidu-Nadun/Thamidu-Nadun/snake-contribution/github-snake.svg" />
 </picture>
+
+---
+
+<h4 style="text-align: center; color: #d83a7c;" align="center">
+<sub>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="20" height="20">
+</picture>
+</sub>
+Thamidu-Nadun
+<sup>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="20" height="20">
+</picture>
+</sup>
+</h4>
 
 ![Footer-Image](assets/footer.svg)
