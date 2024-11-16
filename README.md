@@ -41,7 +41,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamidu-nadun&show_icons=true&locale=en&layout=compact" alt="thamidu-nadun" /></p>
 
 ---
+<div align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+</div>
 ---
 
 <!-- Languages -->
