@@ -86,13 +86,19 @@
 
 ---
 
-
+<!-- Spotify -->
 <div align="center">
   <a href="https://open.spotify.com/user/31vypmbcqva6y5hlwy2643phzyo4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vypmbcqva6y5hlwy2643phzyo4&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
+<!-- Recent Reads -->
+<div align="center">
+<a href="https://github.com/Thamidu-Nadun">
+<img src="" />
+</a>
+</div>
  <h2 align="center">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f911/512.webp" type="image/webp">
