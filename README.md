@@ -7,13 +7,13 @@
 ! I'm <font color="#d83a7c" face="monospace" >Thamidu Nadun</font> </h1>
 
 <!-- Stack -->
-<h3 align="center" id="home"><font color="#8C42F9" title="I am a webDesigner since 4 years">Web Designer</font><font color="#3772FF"> and</font><font color="#4ECDC4"FF="I am a webDeveloper since 1 years"> Web Developer </font>|<font color="$FF6B6B"title="I am a ethicalHacker, I am also like to complete CTF."> Ethical Hacker </font>|<font color="#DE3C4B" title="I am a content creator since 5 years, I like to share my knowledge with people who interest."> YouTube Content Creator</font></h3>
+<h3 align="center" id="home"><font color="#8C42F9" title=" I am a web designer since 4 years">Web Designer</font><font color="#3772FF"> and</font><font color="#4ECDC4"FF=" I am a web developer since 1 years"> Web Developer </font>|<font color="$FF6B6B"title=" I am a ethical hacker, I am also like to complete CTF."> Ethical Hacker </font>|<font color="#DE3C4B" title=" I have been a content creator for 5 years, and I like to share my knowledge with interested people."> YouTube Content Creator</font></h3>
 
 </div>
 
 <!-- Description -->
 <div style="font-family: monospace; font-weight: bold; margin-top: 1rem; text-align: center;" align="center">
-<font face="monospace">I am passionate about creating user-friendly software solutions that make a difference in people's live</font>
+<font face="monospace">I am passionate about creating user-friendly software solutions that make a difference in people's lives </font>
 </div>
 
 ---
@@ -22,9 +22,9 @@
 
 🔭 I’m currently working on **nadSoftLK**
 
-🌱 I’m currently learning **Django, Flask**
+🌱 I’m currently learning **Flutter, ReactJS**
 
-🔧 Ask me about **HTML, CSS, JavaScript, Python and more!**
+🔧 Ask me about **HTML, CSS, JavaScript, Python, and more!**
 
 </div>
 
@@ -75,7 +75,7 @@
 ###### Designing Tools (UI/UX)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23FF9900.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-###### Web Server Softwares 
+###### Web Server Software 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 
 ###### CI/CD
