@@ -93,10 +93,12 @@
   </a>
 </div>
 
+---
+
 <!-- Recent Reads -->
 <div align="center">
 <a href="https://github.com/Thamidu-Nadun">
-<img src="" />
+<img src="https://raw.githubusercontent.com/Thamidu-Nadun/Thamidu-Nadun/main/assets/books.svg" />
 </a>
 </div>
  <h2 align="center">
