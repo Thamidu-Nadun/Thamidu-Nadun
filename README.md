@@ -96,7 +96,6 @@
 ---
 
 <!-- Recent Reads -->
-<div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="216" viewBox="0 0 400 216" fill="none">
     <style id="__jsx-1267595980">
         [class*=ant-]::-ms-clear,[class^=ant-]::-ms-clear{display:none;}[class*=ant-],[class*=ant-]
@@ -1988,7 +1987,7 @@
         </foreignObject>
     </g>
 </svg>
-</div>
+
  <h2 align="center">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f911/512.webp" type="image/webp">
