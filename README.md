@@ -120,6 +120,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Thamidu-Nadun/Thamidu-Nadun/snake-contribution/github-snake.svg" />
 </picture>
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/thamidu-nadun/count.svg?"  />
+</div>
+
+###
+
 ---
 
 <h4 style="text-align: center; color: #d83a7c;" align="center">
