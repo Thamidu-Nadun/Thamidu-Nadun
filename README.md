@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/thamidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamidu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sl nad yc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl nad yc" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/feezu2eatx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="feezu2eatx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/feezu2eatx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetCode" height="30" width="40" /></a>
 </p>
 
 ---
@@ -44,6 +44,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamidu-nadun&show_icons=true&locale=en" alt="thamidu-nadun" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamidu-nadun&show_icons=true&locale=en&layout=compact" alt="thamidu-nadun" /></p>
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
