@@ -17,6 +17,12 @@
 <font face="monospace">I am passionate about creating user-friendly software solutions that make a difference in people's lives </font>
 </div>
 
+<p align="center">
+  <a href="https://linkedin.com/in/thamidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamidu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sl nad yc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl nad yc" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/feezu2eatx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="feezu2eatx" height="30" width="40" /></a>
+</p>
+
 ---
 
 <div>
