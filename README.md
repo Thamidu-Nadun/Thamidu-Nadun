@@ -49,7 +49,9 @@
 
 <!--START_SECTION:waka-->
 
-```java
+```rust
+From: 29 June 2025 - To: 01 July 2025
+
 JavaScript   3 hrs 58 mins   ███████████████████████▓░   94.47 %
 Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
