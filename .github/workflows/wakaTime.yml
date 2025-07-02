@@ -13,6 +13,18 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
+          SECTION_NAME: Dev_Metrics
+          # Time range
           TIME_RANGE: all_time
+          # Theme
           CODE_LANG: rust
+          # Show Options
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          # Commits
+          COMMIT_MESSAGE: Updated Dev Metrics
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Thamidu-Nadun
+          AUTHOR_EMAIL: nadunrz101@gmail.com
