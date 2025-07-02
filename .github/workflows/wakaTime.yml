@@ -14,14 +14,15 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # SECTION_NAME: Dev_Metrics
           TIME_RANGE: all_time
-          CODE_LANG: rust          # <-- correct key and lowercase value
-          LANG_COUNT: 5
+          
+          CODE_LANG: rust
+          BLOCKS: "▰▱"
+
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
-          format: "{emoji} {language:10} {bar:10|▰|▱} {percent:2}"
+          
           COMMIT_MESSAGE: "📈 Updated Dev Metrics"
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
