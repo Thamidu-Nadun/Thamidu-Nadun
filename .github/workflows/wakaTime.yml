@@ -17,7 +17,7 @@ jobs:
           TIME_RANGE: all_time
           
           CODE_LANG: rust
-          BLOCKS: "▰▱"
+          BLOCKS: "▱▰"
 
           SHOW_TITLE: true
           SHOW_TIME: true
