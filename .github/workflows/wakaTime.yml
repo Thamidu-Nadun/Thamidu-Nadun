@@ -22,6 +22,10 @@ jobs:
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: true
+          
+          # Format
+          format: "{emoji} {language:10} {bar:10|▰|▱} {percent:2}"
+
           # Commits
           COMMIT_MESSAGE: Updated Dev Metrics
           COMMITTER_NAME: GitHubActionBot
