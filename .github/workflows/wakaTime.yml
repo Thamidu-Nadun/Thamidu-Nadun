@@ -14,7 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: Dev_Metrics
+          # SECTION_NAME: Dev_Metrics
           TIME_RANGE: all_time
           CODE_LANG: rust          # <-- correct key and lowercase value
           LANG_COUNT: 5
