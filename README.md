@@ -29,7 +29,7 @@
 
 🔭 I’m currently working on **nadSoftLK**
 
-🌱 I’m currently learning **Flutter, ReactJS**
+🌱 I’m currently learning **ML, Three.js**
 
 🔧 Ask me about **HTML, CSS, JavaScript, Python, and more!**
 
