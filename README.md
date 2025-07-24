@@ -21,13 +21,15 @@
   <a href="https://linkedin.com/in/thamidu" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.youtube.com/c/sl nad yc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl nad yc" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/feezu2eatx" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetCode" height="30" width="40" /></a>
   <a href="https://www.npmjs.com/~thamidu-nadun" target="_blank">
     <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+  <br />
+  <a href="https://www.youtube.com/c/sl nad yc" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl nad yc" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/feezu2eatx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetCode" height="40" width="40" />
   </a>
 </p>
 
