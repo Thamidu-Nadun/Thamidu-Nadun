@@ -95,7 +95,7 @@ HTML              41 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 ###### Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,react,spring,electron,threejs,tailwind,bootstrap&perline=4" />
+  <img src="https://skillicons.dev/icons?i=flask,react,spring,electron,threejs,pytorch,tailwind,bootstrap&perline=4" />
 </p>
 
 ###### Markup Languages
