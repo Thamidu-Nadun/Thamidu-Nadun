@@ -89,13 +89,13 @@ HTML              41 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 ###### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,php" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,php,wasm" />
 </p>
 
 ###### Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,react,spring,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=flask,react,spring,electron,threejs,tailwind,bootstrap&perline=4" />
 </p>
 
 ###### Markup Languages
