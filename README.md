@@ -86,13 +86,13 @@ HTML              41 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 
 <div style="text-align: center;" align="center">
 
-###### Programming Languages
+### Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,php,wasm" />
 </p>
 
-###### Frameworks
+###### Frameworks / Library
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,react,spring,electron,threejs,pytorch,tailwind,bootstrap&perline=4" />
