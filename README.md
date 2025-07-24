@@ -18,10 +18,17 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/thamidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamidu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sl nad yc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl nad yc" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/feezu2eatx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetCode" height="30" width="40" /></a>
-  <a href="https://www.npmjs.com/~thamidu-nadun" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/6078720?s=30&v=4" alt="leetCode" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/thamidu" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.youtube.com/c/sl nad yc" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sl nad yc" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/feezu2eatx" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetCode" height="30" width="40" /></a>
+  <a href="https://www.npmjs.com/~thamidu-nadun" target="_blank">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
 </p>
 
 ---
@@ -81,39 +88,57 @@ HTML              41 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 
 ###### Programming Languages
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,php" />
+</p>
 
 ###### Frameworks
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=pink) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/flutter-%232671E5.svg?style=for-the-badge&logo=figma&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%23121011.svg?style=for-the-badge&logo=tailwindcss) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,react,spring,tailwind,bootstrap" />
+</p>
 
 ###### Markup Languages
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,md" />
+</p>
 
 ###### Other Languages
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,octave,bash" />
+</p>
 
 ###### DataBase System
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ###### Cloud Services
 
-![AWS](https://img.shields.io/badge/AWS-f89501.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-ef7f1f?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare" />
+</p>
 
 ###### Designing Tools (UI/UX)
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23FF9900.svg?style=for-the-badge&logo=blender&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
+</p>
 
 ###### Web Server Software
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</p>
 
 ###### CI/CD
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+</p>
 
 </div>
 
