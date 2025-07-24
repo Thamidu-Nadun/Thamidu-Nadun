@@ -98,43 +98,43 @@ HTML              41 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
   <img src="https://skillicons.dev/icons?i=flask,react,spring,electron,threejs,pytorch,tailwind,bootstrap&perline=4" />
 </p>
 
-###### Markup Languages
+#### Markup Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,md" />
 </p>
 
-###### Other Languages
+#### Other Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,octave,bash" />
 </p>
 
-###### DataBase System
+#### DataBase System
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-###### Cloud Services
+#### Cloud Services
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare" />
 </p>
 
-###### Designing Tools (UI/UX)
+#### Designing Tools (UI/UX)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,blender" />
 </p>
 
-###### Web Server Software
+#### Web Server Software
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nginx" />
 </p>
 
-###### CI/CD
+#### CI/CD
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=githubactions" />
