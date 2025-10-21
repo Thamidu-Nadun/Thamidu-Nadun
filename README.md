@@ -17,6 +17,22 @@
 <font face="monospace">I am passionate about creating user-friendly software solutions that make a difference in people's lives </font>
 </div>
 
+<br />
+<h2 align="center">
+  <a href="https://matrix.to/#/@nadun-x:matrix.org" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img 
+      src="https://skillicons.dev/icons?i=bots" 
+      alt="Matrix Chat Icon" 
+    />
+    <br />
+    <span>
+      Send me a message
+    </span>
+  </a>
+</h2>
+
+<br />
+
 <p align="center">
   <a href="https://linkedin.com/in/thamidu" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -205,3 +221,4 @@ Thamidu-Nadun
 </h4>
 
 ![Footer-Image](assets/footer.svg)
+
