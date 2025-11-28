@@ -61,6 +61,9 @@
 
 </div>
 
+<!-- Holophian Badge -->
+[![An image of @thamidunadun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thamidunadun)](https://holopin.io/@thamidunadun)
+
 <!-- GitHub Status -->
 
 <h2 style="text-align: center; color: #d83a7c" align="center"><font color="#d83a7c">My Current GitHub Stats</font></h2>
@@ -221,4 +224,5 @@ Thamidu-Nadun
 </h4>
 
 ![Footer-Image](assets/footer.svg)
+
 
