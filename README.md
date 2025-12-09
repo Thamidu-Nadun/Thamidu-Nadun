@@ -70,9 +70,9 @@
 
 <p href="" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=thamidu-nadun&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" align="center" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thamidu-nadun&show_icons=true&locale=en" alt="thamidu-nadun" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-status-swart.vercel.app/api?username=thamidu-nadun&show_icons=true&locale=en" alt="thamidu-nadun" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thamidu-nadun&show_icons=true&locale=en&layout=compact" alt="thamidu-nadun" /></p>
+<p align="center"><img align="center" src="https://github-readme-status-swart.vercel.app/api/top-langs?username=thamidu-nadun&show_icons=true&locale=en&layout=compact" alt="thamidu-nadun" /></p>
 
 ---
 
@@ -224,5 +224,6 @@ Thamidu-Nadun
 </h4>
 
 ![Footer-Image](assets/footer.svg)
+
 
 
