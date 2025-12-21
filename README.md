@@ -200,7 +200,7 @@ Markdown          7 hrs 44 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 </picture>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/thamidu-nadun/count.svg?"  />
+  <img src="https://profile-counter.deno.dev/thamidu-nadun/count.svg"  />
 </div>
 
 ###
@@ -224,6 +224,7 @@ Thamidu-Nadun
 </h4>
 
 ![Footer-Image](assets/footer.svg)
+
 
 
 
