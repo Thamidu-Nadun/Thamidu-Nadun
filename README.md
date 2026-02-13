@@ -76,7 +76,12 @@
 
 ---
 
-<a href="https://gitroll.io/profile/u8OoSqnKquuONCXmnaJ7qj8840pa2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8OoSqnKquuONCXmnaJ7qj8840pa2?theme=retro" alt="Thamidu Nadun"/></a>
+<!--GitRoll-->
+<div align="center">
+<a href="https://gitroll.io/profile/u8OoSqnKquuONCXmnaJ7qj8840pa2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8OoSqnKquuONCXmnaJ7qj8840pa2?theme=retro" height="350" alt="Thamidu Nadun"/></a>
+</div>
+<!--/GitRoll-->
+
 
 <!--START_SECTION:waka-->
 
@@ -226,6 +231,7 @@ Thamidu-Nadun
 </h4>
 
 ![Footer-Image](assets/footer.svg)
+
 
 
 
