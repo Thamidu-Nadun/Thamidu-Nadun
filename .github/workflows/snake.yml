@@ -38,4 +38,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: snake-contribution
-          commit_message: "Update snake animation based on github contributions"
+          commit_message: "chore(bot): update snake animation"
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
