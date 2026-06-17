@@ -24,7 +24,5 @@ jobs:
           SHOW_TOTAL: true
           
           COMMIT_MESSAGE: "📈 Updated Dev Metrics"
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: Thamidu-Nadun
-          AUTHOR_EMAIL: nadunrz101@gmail.com
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
